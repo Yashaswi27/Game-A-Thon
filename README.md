@@ -1,5 +1,5 @@
 # Game-A-Thon: Introduction to Git And Github
-Name : Yashaswi Rewatkar
+# Name : Yashaswi Rewatkar
 
 Problem Statement 1 : Sum of Two numbers
 
