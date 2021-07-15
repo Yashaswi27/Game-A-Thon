@@ -27,10 +27,10 @@ TestCase 2 : Output : ++a = 11
 ++c = 11.500000
 --d = 99.500000
 
-
-
 // Working of increment and decrement operators
+
 #include <stdio.h>
+
 int main()
 {
     int a = 10, b = 100;
